@@ -30,8 +30,7 @@ public class Main {
         peak.showRooms();
 
 
-
-
+        System.out.println("hello world");
 
   }
 }
